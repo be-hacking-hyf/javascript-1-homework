@@ -7,7 +7,7 @@ emoji meanings
 | emoji | who uses it | meaning |
 | --- | --- | --- |
 | :white_check_mark: | coaches | homework is checked and OK |
-| :warning: | coaches | homework has a few issues, see comments |
+| :warning: | coaches | homework has a few issues, see comments and send a message on slack |
 |  :wavy_dash: | student | started, in progress  | 
 | :question: | student | need help  | 
 | :white_check_mark: | student | think it's done | 
