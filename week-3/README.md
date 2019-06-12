@@ -1,22 +1,20 @@
-# JavaScript 1 Homework
+# Week 2
 
+|  | your Emoji | your comments | coach emoji | coach comments |
+| --- | --- | --- | --- | --- |
+| :seedling: __[fcc: ES6 (through declarative functions)](./fcc-es6-through-declarative-functions.md) | | | | |
+| :seedling: __[janke: truthiness](./jl-truthiness.md) | | | | |
+| :seedling: __[janke: primitive types](./jl-primitive-types.md) | | | | |
+| :dash: __[janke: functions as arguments](./jl-functions-as-arguments.md) | | | | |
+| :dash: __[janke: test cases](./jl-test-cases.md) | | | | |
+| :fire: __[janke: callstack](./jl-callstack.md) | | | | |
+| :fire: __[janke: operator precedence](./jl-operator-precedence.md) | | | | |
 
-### Index
-* [using this repo](#using-this-repo)
-* [feedback guide](#feedback-guide)
-* [priority guide](#priority-guide)
-
----
-
-## Using This Repo
-
-1. Fork it
-1. for each week
-    1. add a row with a link to your fork in your class's js-1 homework check-in table
-1. start the homework
-1. track your progress and keep your coaches up to date with issues, pr's & comments/emojis in the tables
+to assemble
+  primitive types - exerciser it
 
 ---
+
 
 ## submission instructions
 

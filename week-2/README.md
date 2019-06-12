@@ -1,22 +1,21 @@
-# JavaScript 1 Homework
+# Week 2
 
+|  | your Emoji | your comments | coach emoji | coach comments |
+| --- | --- | --- | --- | --- |
+| :seedling: __[fcc: finish js basics](./fcc-basic-js-pt-2.md) | | | | |
+| :seedling: __[fcc: data structures](./fcc-data-structures.md) | | | | |
+| :seedling: __[errors: arrays](./jl-errors-arrays.md) | | | | |
+| :seedling: __[errors: objects](./jl-errors-objects.md) | | | | |
+| :dash: __[javascript.info: loops](./jsinfo-loops.md) | | | | |
+| :seedling: __[janke: reference types](./jl-reference-types.md) | | | | |
+| :dash: __[janke: ref-type arguments](./jl-functions-ref-type-args.md) | | | | |
+| :dash: __[variables: sentences without temps](./jl-variables-sentences-1.md) | | | | |
+| :fire: __[variables: sentences with temps](./jl-variables-sentences-2.md) | | | | |
+ 
 
-### Index
-* [using this repo](#using-this-repo)
-* [feedback guide](#feedback-guide)
-* [priority guide](#priority-guide)
 
 ---
 
-## Using This Repo
-
-1. Fork it
-1. for each week
-    1. add a row with a link to your fork in your class's js-1 homework check-in table
-1. start the homework
-1. track your progress and keep your coaches up to date with issues, pr's & comments/emojis in the tables
-
----
 
 ## submission instructions
 

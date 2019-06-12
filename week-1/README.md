@@ -1,22 +1,19 @@
-# JavaScript 1 Homework
+# Week 1
 
-
-### Index
-* [using this repo](#using-this-repo)
-* [feedback guide](#feedback-guide)
-* [priority guide](#priority-guide)
-
----
-
-## Using This Repo
-
-1. Fork it
-1. for each week
-    1. add a row with a link to your fork in your class's js-1 homework check-in table
-1. start the homework
-1. track your progress and keep your coaches up to date with issues, pr's & comments/emojis in the tables
+|  | your Emoji | your comments | coach emoji | coach comments |
+| --- | --- | --- | --- | --- |
+| :seedling: __[fcc basics](./fcc-basic-js-pt-1.md)__: through ```Counting Cards``` | | | | |
+| :dash: __[fcc debugging](./fcc-debugging.md)__ | | | | |
+| :seedling: __[errors: formatting](./jl-errors-formatting.md) | | | | |
+| :seedling: __[errors: primitives](./jl-errors-primitive-types.md) | | | | |
+| :seedling: __[errors: variables](./jl-errors-variables.md) | | | | |
+| :seedling: __[varibales: swaps](./jl-variables-swaps.md) | | | | |
+| :dash: __[variables: multiple assignments](./jl-variables-multiple.md) | | | | |
+| :seedling: __[how functions work](./jl-functions.md) | | | | |
+| :dash: __[functions: turtle shuffle](./jl-turtle-shuffle.md) | | | | |
 
 ---
+
 
 ## submission instructions
 
@@ -41,3 +38,4 @@
 ___
 ___
 ### <a href="https://hackyourfuture.be" target="_blank"><img src="https://pbs.twimg.com/profile_images/984474625009741824/Bs_qKx6-_400x400.jpg" width="100" height="100"></img></a>
+

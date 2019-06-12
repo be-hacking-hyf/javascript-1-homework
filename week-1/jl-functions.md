@@ -1,0 +1,2 @@
+> paste [this markdown of exercises](https://raw.githubusercontent.com/janke-learning/function-exercises/master/functions.md) into this file and complete the exercises! 
+> references: [javascript.info functions](https://javascript.info/function-basics), [function examples to study](https://github.com/janke-learning/function-exercises/blob/master/examples-to-study.md)
