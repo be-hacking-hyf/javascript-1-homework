@@ -7,8 +7,8 @@
 | :seedling: __[errors: arrays](./jl-errors-arrays.md) | | | | |
 | :seedling: __[errors: objects](./jl-errors-objects.md) | | | | |
 | :dash: __[javascript.info: loops](./jsinfo-loops.md) | | | | |
-| :seedling: __[janke: reference types](./jl-reference-types.md) | | | | |
-| :dash: __[janke: ref-type arguments](./jl-functions-ref-type-args.md) | | | | |
+| :dash: __[janke: reference types](./jl-reference-types.md) | | | | |
+| :fire: __[janke: ref-type arguments](./jl-functions-ref-type-args.md) | | | | |
 | :dash: __[variables: sentences without temps](./jl-variables-sentences-1.md) | | | | |
 | :fire: __[variables: sentences with temps](./jl-variables-sentences-2.md) | | | | |
  
@@ -34,7 +34,7 @@
 ## priority guide
 
 * :seedling: : must finish
-* :dash: : start it, try to finish
+* :dash: : start it
 * :fire: : challenge
 
 ___

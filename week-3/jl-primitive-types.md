@@ -1,1 +1,0 @@
-primitive-types.md

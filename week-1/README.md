@@ -32,7 +32,7 @@
 ## priority guide
 
 * :seedling: : must finish
-* :dash: : start it, try to finish
+* :dash: : start it
 * :fire: : challenge
 
 ___

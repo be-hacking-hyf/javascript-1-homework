@@ -1,17 +1,20 @@
-# Week 2
+# Week 3
 
 |  | your Emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| :seedling: __[fcc: ES6 (through declarative functions)](./fcc-es6-through-declarative-functions.md) | | | | |
 | :seedling: __[janke: truthiness](./jl-truthiness.md) | | | | |
-| :seedling: __[janke: primitive types](./jl-primitive-types.md) | | | | |
+| :seedling: __[javascript.info: logical operators](./jsinfo-logical-operators.md) | | | | |
+| :seedling: __[javascript.info: conditionals](./jsinfo-conditionals.md) | | | | |
+| :seedling: __[janke: test cases](./jl-test-cases.md) | | | | |
+| :fire: __[janke: replicate ```==```](./jl-replicate-loose-equality.md) | | | | |
+| :dash: __[janke: operator precedence](./jl-operator-precedence.md) | | | | |
+| :fire: __[janke: expanding expressions](./jl-expanding-expressions.md) | | | | |
+| :dash: __[FCC: basic algorithms](./fcc-algorithms-1.md) | | | | |
 | :dash: __[janke: functions as arguments](./jl-functions-as-arguments.md) | | | | |
-| :dash: __[janke: test cases](./jl-test-cases.md) | | | | |
 | :fire: __[janke: callstack](./jl-callstack.md) | | | | |
-| :fire: __[janke: operator precedence](./jl-operator-precedence.md) | | | | |
 
-to assemble
-  primitive types - exerciser it
+
+
 
 ---
 
@@ -33,7 +36,7 @@ to assemble
 ## priority guide
 
 * :seedling: : must finish
-* :dash: : start it, try to finish
+* :dash: : start it
 * :fire: : challenge
 
 ___
