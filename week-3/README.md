@@ -4,16 +4,16 @@
 | --- | --- | --- | --- | --- |
 | :seedling: finish FCC basics | | | | |
 | :seedling: finish FCC data structures | | | | |
-| :seedling: __[javascript.info: logical operators](./jsinfo-logical-operators.md) | | | | |
-| :seedling: __[javascript.info: conditionals](./jsinfo-conditionals.md) | | | | |
-| :seedling: __[janke: test cases](./jl-test-cases.md) | | | | |
-| :dash: __[janke: operator precedence](./jl-operator-precedence.md) | | | | |
-| :dash: __[FCC: basic algorithms](./fcc-algorithms-1.md) | | | | |
-| :fire: __[janke: expanding expressions](./jl-expanding-expressions.md) | | | | |
-| :fire: __[janke: replicate ```==```](./jl-replicate-loose-equality.md) | | | | |
-| :fire: __[janke: ref-type arguments](./jl-reference-type-arguments.md) | | | | |
-| :fire: __[janke: functions as arguments](./jl-functions-as-arguments.md) | | | | |
-| :fire: __[janke: callstack](./jl-callstack.md) | | | | |
+| :seedling: [javascript.info: logical operators](./jsinfo-logical-operators.md) | | | | |
+| :seedling: [javascript.info: conditionals](./jsinfo-conditionals.md) | | | | |
+| :seedling: [janke: test cases](./jl-test-cases.md) | | | | |
+| :dash: [janke: operator precedence](./jl-operator-precedence.md) | | | | |
+| :dash: [FCC: basic algorithms](./fcc-algorithms-1.md) | | | | |
+| :fire: [janke: expanding expressions](./jl-expanding-expressions.md) | | | | |
+| :fire: [janke: replicate ```==```](./jl-replicate-loose-equality.md) | | | | |
+| :fire: [janke: ref-type arguments](./jl-reference-type-arguments.md) | | | | |
+| :fire: [janke: functions as arguments](./jl-functions-as-arguments.md) | | | | |
+| :fire: [janke: callstack](./jl-callstack.md) | | | | |
 
 
 
