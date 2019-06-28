@@ -4,11 +4,11 @@
 | --- | --- | --- | --- | --- |
 | :seedling: finish FCC basics | | | | |
 | :seedling: finish FCC data structures | | | | |
-| :seedling: [javascript.info: logical operators](./jsinfo-logical-operators.md) | | | | |
-| :seedling: [javascript.info: conditionals](./jsinfo-conditionals.md) | | | | |
-| :seedling: [janke: test cases](./jl-test-cases.md) | | | | |
-| :dash: [janke: operator precedence](./jl-operator-precedence.md) | | | | |
-| :dash: [FCC: basic algorithms](./fcc-algorithms-1.md) | | | | |
+| :dash: [javascript.info: logical operators](./jsinfo-logical-operators.md) | | | | |
+| :dash: [javascript.info: conditionals](./jsinfo-conditionals.md) | | | | |
+| :fire: [janke: test cases](./jl-test-cases.md) | | | | |
+| :fire: [janke: operator precedence](./jl-operator-precedence.md) | | | | |
+| :fire: [FCC: basic algorithms](./fcc-algorithms-1.md) | | | | |
 | :fire: [janke: expanding expressions](./jl-expanding-expressions.md) | | | | |
 | :fire: [janke: replicate ```==```](./jl-replicate-loose-equality.md) | | | | |
 | :fire: [janke: ref-type arguments](./jl-reference-type-arguments.md) | | | | |
